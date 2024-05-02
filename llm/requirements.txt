@@ -1,0 +1,7 @@
+langchain
+openai
+load_dotenv
+tiktoken
+pydantic>=1,<2
+docarray~=0.40.0
+langchainhub
