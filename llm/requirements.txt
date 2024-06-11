@@ -5,3 +5,5 @@ tiktoken
 pydantic>=1,<2
 docarray~=0.40.0
 langchainhub
+langchain_community
+bs4

@@ -6,3 +6,4 @@ invest/data/**
 speech recognition/1.mp3
 speech recognition/1.aac
 speech recognition/2.aac
+.env
